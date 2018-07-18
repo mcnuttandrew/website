@@ -5,7 +5,7 @@ date: 2014-11-11 12:46:00
 ---
 
 Gordon will be presenting the
-[paper](/posts/2014/11/10/vis-paper.html) tomorrow at the Design
+[paper](/2014/11/10/vis-paper.html) tomorrow at the Design
 Process and Persuasion session, at 2:20PM.
 
 We'll be doing a series of posts about this work that will follow the
@@ -84,7 +84,7 @@ But let's start with an example.
 Let's say we have a visualization of election results. Here we are
 showing the results of 2014's senate race in Virginia, as reported by
 the [New York
-Times](http://www.nytimes.com/interactive/2014/11/04/upshot/senate-maps.html). 
+Times](http://www.nytimes.com/interactive/2014/11/04/upshot/senate-maps.html).
 
 <div id="election_results_pad_begin" style="position: absolute">
 </div>
@@ -203,7 +203,7 @@ become red states, and vice-versa. That's good.
 <div id="election_results_show_purple_wide_2"></div>
 
 But now, let's look at what happens for this same transformation,
-except using the red-purple-blue visualization. 
+except using the red-purple-blue visualization.
 
 ![](/assets/transition.png)
 
